@@ -1,4 +1,6 @@
-# Windows-Doamin-Log-Off-User
+# Windows-Powershell-Log-Off-User
+
+TO USE THIS SCRIPT YOU WILL NEED TO ENABLE REMOTE POWERSHELL ON THE REMOTE PC ON YOUR NETWORK
 
 
 This Little powershell script will allow you to logoff a users session.
